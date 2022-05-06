@@ -1,0 +1,21 @@
+{
+    "name": "millenniumbcp",
+    "displayName": "millenniumbcp",
+    "description": "Millennium BCP Colors for VS Code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Millennium BCP Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Millennium BCP Theme-color-theme.json"
+            }
+        ]
+    }
+}
